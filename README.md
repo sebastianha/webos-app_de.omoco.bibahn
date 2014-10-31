@@ -47,7 +47,7 @@ Mit diesem Programm kannst du die Abfahrt den nächsten U-Bahn in Bielefeld hera
 
 Mit diesem Programm kannst du die Abfahrt den nächsten U-Bahn in Bielefeld herausfinden.
 
-## License
+# License
 
 Copyright (c) 2014 Sebastian Hammerl, Getslash GmbH
 
