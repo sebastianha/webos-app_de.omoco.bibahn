@@ -17,37 +17,37 @@ webOS App – BiBahn (de.omoco.bibahn)
 - Uses Location Services : 	 Yes 
 - Uses Encryption : 	 No
 
-### Icon
+## Icon
 
 ![Screenshot](/icon.png?raw=true "Icon")
 
-### Screenshots
+## Screenshots
 
 ![Screenshot](/screenshots/screenshot0.png?raw=true "Screenshot")
 ![Screenshot](/screenshots/screenshot1.png?raw=true "Screenshot")
 ![Screenshot](/screenshots/screenshot2.png?raw=true "Screenshot")
 
-### Video
+## Video
 
 http://www.youtube.com/watch?v=licG8bbqJ7U
 
-### Description
+## Description
 
-##### German
+#### German
 
-###### Primary Application description : 
+##### Primary Application description : 
 
 Dieses Programm hilft dir in der Stadt Bielefeld die Abfahrtszeiten der U-Bahn herauszufinden. Es findet deine aktuelle Position und wählt die am nächsten gelegene Station als Abfahrtsstation. Das Ziel kann abhängig von der Uhrzeit voreingestellt werden. So wird vor mittags z.B. der Arbeitsort und abends dann das zu Hause voreingestellt. Natürlich können auch die Abfahrtszeiten von beliebigen Verbindungen ausgesucht werden. Dieses Programm macht es möglich sofort festzustellen, wann die nächste Bahn fährt. Dieses Programm funktioniert zur Zeit leider nur in Bielefeld. Weitere Städte kommen evtl. nach. UPDATE: Jetzt mit Detailinformationen für die Verbindung und kompletten offline Netzplan.
 
-###### Long Marketing description : 
+##### Long Marketing description : 
 
 Mit diesem Programm kannst du die Abfahrt den nächsten U-Bahn in Bielefeld herausfinden.
 
-###### Short Marketing description : 
+##### Short Marketing description : 
 
 Mit diesem Programm kannst du die Abfahrt den nächsten U-Bahn in Bielefeld herausfinden.
 
-# License
+## License
 
 Copyright (c) 2014 Sebastian Hammerl, Getslash GmbH
 
