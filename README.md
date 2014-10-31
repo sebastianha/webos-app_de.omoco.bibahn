@@ -19,7 +19,7 @@ webOS App – BiBahn (de.omoco.bibahn)
 
 ## Download
 
-[Download](/releases/de.omoco.bibahn_1.1.0_all.ipk?raw=true)
+[Download](/releases/de.omoco.bibahn_1.1.0_all.ipk?raw=true) latest version as IPK.
 
 ## Icon
 
