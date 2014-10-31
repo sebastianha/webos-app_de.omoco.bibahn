@@ -17,6 +17,10 @@ webOS App – BiBahn (de.omoco.bibahn)
 - Uses Location Services : 	 Yes 
 - Uses Encryption : 	 No
 
+## Download
+
+[Download](/releases/de.omoco.bibahn_1.1.0_all.ipk?raw=true)
+
 ## Icon
 
 ![Screenshot](/icon.png?raw=true "Icon")
