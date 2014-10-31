@@ -33,9 +33,9 @@ http://www.youtube.com/watch?v=licG8bbqJ7U
 
 ### Description
 
-#### German
+##### German
 
-##### Primary Application description : 
+###### Primary Application description : 
 
 Dieses Programm hilft dir in der Stadt Bielefeld die Abfahrtszeiten der U-Bahn herauszufinden. Es findet deine aktuelle Position und wählt die am nächsten gelegene Station als Abfahrtsstation. Das Ziel kann abhängig von der Uhrzeit voreingestellt werden. So wird vor mittags z.B. der Arbeitsort und abends dann das zu Hause voreingestellt. Natürlich können auch die Abfahrtszeiten von beliebigen Verbindungen ausgesucht werden. Dieses Programm macht es möglich sofort festzustellen, wann die nächste Bahn fährt. Dieses Programm funktioniert zur Zeit leider nur in Bielefeld. Weitere Städte kommen evtl. nach. UPDATE: Jetzt mit Detailinformationen für die Verbindung und kompletten offline Netzplan.
 
