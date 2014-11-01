@@ -26,7 +26,7 @@ webOS App – BiBahn (de.omoco.bibahn)
 
 ## Screenshots
 
-![Screenshot](/screenshots/screenshot0.png?raw=true =250x)
+![Screenshot](/screenshots/screenshot0.png?raw=true =250x100)
 ![Screenshot](/screenshots/screenshot1.png?raw=true =225x)
 ![Screenshot](/screenshots/screenshot2.png?raw=true =200x)
 
